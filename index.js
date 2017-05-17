@@ -16,3 +16,4 @@ var server = http.createServer(function (req, res) {
 
 server.listen(65432);
 console.log('http://127.0.0.1:65432/');
+console.log('test');
